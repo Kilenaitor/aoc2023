@@ -1,0 +1,5 @@
+; Global namespace
+assume_php = false
+enable_coeffects_syntax=false
+call_coeffects=false
+local_coeffects=false

@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  aoc:
+    build:
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/var/aoc2023/'

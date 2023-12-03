@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"hack.remote.docker.containerName": "aoc2023-aoc-1",
+		"hack.remote.type": "docker",
+		"hack.remote.workspacePath": "/var/aoc2023/",
+		"hack.remote.enabled": true,
+		"hack.clientPath": "/usr/bin/hh_client",
+		"hack.enableCoverageCheck": true
+	}
+}
