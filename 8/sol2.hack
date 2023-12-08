@@ -67,7 +67,8 @@ function instruction_generator(
   }
 }
 
-// https://stackoverflow.com/a/147523
+// https://stackoverflow.com/a/147539
+// Adapted to Hack
 function lcms(vec<int> $numbers): int {
   $answer = $numbers[0];
   for ($i = 1; $i < C\count($numbers); $i++) {
